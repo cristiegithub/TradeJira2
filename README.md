@@ -9,3 +9,5 @@ test
 JIRATRADE-1 changes
 
 JIRATRADE-10 changes
+
+JIRATRADE-4 #comment - fixed
